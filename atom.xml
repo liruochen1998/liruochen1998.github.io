@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-23T23:02:27.751Z</updated>
+  <updated>2019-09-23T23:06:32.517Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Ruochen Li Resume</title>
     <link href="http://yoursite.com/2019/09/23/Resume/"/>
     <id>http://yoursite.com/2019/09/23/Resume/</id>
     <published>2019-09-23T23:02:27.751Z</published>
-    <updated>2019-09-23T23:02:27.751Z</updated>
+    <updated>2019-09-23T23:06:32.517Z</updated>
     
     <summary type="html">
     
@@ -29,54 +29,12 @@
       
         
         
-          &lt;h1 id=&quot;Resume&quot;&gt;&lt;a href=&quot;#Resume&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;Ruochen-Li&quot;&gt;&lt;a href=&quot;#Ruochen-Li&quot; class=&quot;headerlink&quot; title=&quot;Ruochen Li&quot;&gt;&lt;/a&gt;Ruochen
         
       
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>GRE写作Argument部分-文章缺陷分析</title>
-    <link href="http://yoursite.com/2018/07/27/GRE%E5%86%99%E4%BD%9CArgument%E9%83%A8%E5%88%86-%E6%96%87%E7%AB%A0%E7%BC%BA%E9%99%B7%E5%88%86%E6%9E%90/"/>
-    <id>http://yoursite.com/2018/07/27/GRE写作Argument部分-文章缺陷分析/</id>
-    <published>2018-07-27T19:49:59.000Z</published>
-    <updated>2018-12-22T04:27:46.359Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;My GRE Notes&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="GRE" scheme="http://yoursite.com/tags/GRE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Reading Schedule</title>
-    <link href="http://yoursite.com/2018/06/25/Reading-Schedule/"/>
-    <id>http://yoursite.com/2018/06/25/Reading-Schedule/</id>
-    <published>2018-06-25T17:14:27.000Z</published>
-    <updated>2018-07-27T08:02:04.163Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Reading-Schedule-2018&quot;&gt;&lt;a href=&quot;#Reading-Schedule-2018&quot; class=&quot;headerlink&quot; title=&quot;Reading Schedule 2018&quot;&gt;&lt;/a&gt;Reading Schedule
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
     
   </entry>
   
